@@ -1,0 +1,9 @@
+## Interface: 20505
+## Title: Hush
+## Notes: Hides selected Blizzard UI elements such as the XP and reputation bars.
+## Notes-ptBR: Oculta elementos selecionados da interface da Blizzard, como as barras de XP e reputacao.
+## Author: Ingo Stramm
+## Version: 1.0.0
+## SavedVariables: HushDB
+
+Hush.lua
