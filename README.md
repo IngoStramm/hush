@@ -7,7 +7,7 @@ Hush is a lightweight World of Warcraft Classic TBC Anniversary addon for hiding
 ## Compatibility
 
 - World of Warcraft Classic TBC Anniversary
-- Interface version: `20505`
+- Interface version: `20506`
 
 ## Installation
 
